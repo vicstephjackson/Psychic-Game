@@ -1,0 +1,35 @@
+body{
+	background-image:url(../images/tellershands.jpg);
+	background-size:cover;
+}
+H2{
+	border: 40px solid black;
+	border-inline-start-color:whitesmoke;
+	border-inline-end-color:whitesmoke;
+	margin:0;
+	text-align: center;
+	color:steelblue;
+	font-size: 100px;
+	font-weight: 200;
+	font-family: cursive;
+	background-image: url(../images/junk.jpg);
+	
+}
+h3{
+	margin:0;
+	text-align: center;
+	color:slategray;
+	font-size: 30px;
+	font-family: cursive;
+}
+h4{
+	
+	text-align: center;
+	color:black;
+	font-size: 35px;
+	font-family: cursive;
+}
+	
+
+
+
